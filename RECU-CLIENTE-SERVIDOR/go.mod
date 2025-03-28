@@ -1,0 +1,3 @@
+module RECU-CLIENTE-SERVIDOR
+
+go 1.23
